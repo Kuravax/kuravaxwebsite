@@ -1,2 +1,2 @@
 # kuravaxwebsite
-privet
+https://kuravax.github.io/kuravaxwebsite/
